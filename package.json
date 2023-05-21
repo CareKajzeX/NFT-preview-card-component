@@ -1,0 +1,14 @@
+{
+  "name": "nft-preview-card-component",
+  "version": "1.0.0",
+  "description": "FrontendMentor Challenge",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node sass -w scss/ dist/css/ --recursive"
+  },
+  "author": "Aljaž Kaisersberger",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
